@@ -12,4 +12,5 @@ References:
 https://medium.com/@vamshidharpratap/implementing-k-means-clustering-using-opencv-in-python-bd466b146568
 
 sonar_data.csv downloaded from:
-https://github.com/bhargav-borah/Rock-vs-Mine-Detection/blob/main/logistic_regression.ipynb
+
+https://github.com/bhargav-borah/Rock-vs-Mine-Detection/tree/main
